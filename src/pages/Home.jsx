@@ -1,6 +1,6 @@
 import React from "react";
 import HeroImg from "../assets/1.png";
-import TopList from "../components/Toplist";
+import TopList from "../components/TopList";
 import Banner from "../components/Banner";
 import OurServices from "../components/OurServices";
 
